@@ -1,0 +1,27 @@
+﻿app_name,配置code,owner,QA_namespace,操作
+cif,DEFAULT_GROUP|cif-datasource-config,"Daniel Yang,Jun Gu",public,QA=N，需添加
+cif,DEFAULT_GROUP|cif-sharding-shared,"Daniel Yang,Jun Gu",public,QA=N，需添加
+cif,DEFAULT_GROUP|cif-shared,"Daniel Yang,Jun Gu",public,QA=N，需添加
+debit-gateway,DEFAULT_GROUP|debit-gateway,Daryl Chen,public,QA=N，需添加
+debit-gateway,DEFAULT_GROUP|debit-gateway-datasource-config,Daryl Chen,public,QA=N，需添加
+fundcheck,DEFAULT_GROUP|fundcheck-config,"Frey Ren,Leo Huang",public,QA=N，需添加
+fundinsight,DEFAULT_GROUP|fundinsight-datasource-config,"kent chen,Daryl Chen",public,QA=N，需添加
+fundinsight,DEFAULT_GROUP|fundinsight-rmq,"kent chen,Daryl Chen",public,QA=N，需添加
+fundinsight,DEFAULT_GROUP|fundinsight-shared,"kent chen,Daryl Chen",public,QA=N，需添加
+gateway,DEFAULT_GROUP|gateway-datasource-config,"Daryl Chen,kent chen",public,QA=N，需添加
+gateway,DEFAULT_GROUP|gateway-v2,"Daryl Chen,kent chen",public,QA=N，需添加
+gatewayapp,DEFAULT_GROUP|gatewayapp-datasource-config,"shawn zhang,Frey Ren",public,QA=N，需添加
+gatewayapp,DEFAULT_GROUP|gatewayapp-rw,"shawn zhang,Frey Ren",public,QA=N，需添加
+infrastructure,DEFAULT_GROUP|global-sharding-shared,Symon Lin,public,QA=N，需添加
+loan,DEFAULT_GROUP|loan-datasource-config,"Symon Lin,Joyce Qiao",public,QA=N，需添加
+loan,DEFAULT_GROUP|loan-shared,"Symon Lin,Joyce Qiao",public,QA=N，需添加
+gatewayegress,DEFAULT_GROUP|pomelo-gateway-egress,"Daryl Chen,kent chen",public,QA=N，需添加
+gatewayegress,DEFAULT_GROUP|pomelo-gateway-egress-datasource-config,"Daryl Chen,kent chen",public,QA=N，需添加
+gatewayfile,DEFAULT_GROUP|processor-gateway-file,"Daryl Chen,kent chen",public,QA=N，需添加
+gatewayfile,DEFAULT_GROUP|processor-gateway-file-datasource-config,"Daryl Chen,kent chen",public,QA=N，需添加
+statement,DEFAULT_GROUP|statement-mq-config,"Layne Wang,Harvey Lu,kent chen",public,QA=N，需添加
+token-manager,DEFAULT_GROUP|token-manager-datasource-config,Harvey Lu,public,QA=N，需添加
+token-manager,DEFAULT_GROUP|token-manager-shared,Harvey Lu,public,QA=N，需添加
+urule,DEFAULT_GROUP|urule,"Symon Lin,Joyce Qiao",public,QA=N，需添加
+viewx,DEFAULT_GROUP|viewx-datasource-config,"shawn zhang,Frey Ren,Joyce Qiao",public,QA=N，需添加
+viewx,DEFAULT_GROUP|viewx-shared,"shawn zhang,Frey Ren,Joyce Qiao",public,QA=N，需添加

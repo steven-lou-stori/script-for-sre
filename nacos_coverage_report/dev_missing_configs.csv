@@ -1,0 +1,24 @@
+﻿app_name,配置code,DEV_namespace
+cif,DEFAULT_GROUP|cif-datasource-config,"dev-col, public"
+cif,DEFAULT_GROUP|cif-sharding-shared,public
+cif,DEFAULT_GROUP|cif-shared,"dev-col, public"
+datahub,DEFAULT_GROUP|datahub-shared,public
+debit-gateway,DEFAULT_GROUP|debit-gateway,public
+debit-gateway,DEFAULT_GROUP|debit-gateway-datasource-config,public
+fundcheck,DEFAULT_GROUP|fundcheck-config,"dev-col, public"
+fundinsight,DEFAULT_GROUP|fundinsight-datasource-config,"dev-col, public"
+fundinsight,DEFAULT_GROUP|fundinsight-rmq,public
+fundinsight,DEFAULT_GROUP|fundinsight-shared,"dev-col, public"
+gateway,DEFAULT_GROUP|gateway-datasource-config,"dev-col, gray, public"
+gateway,DEFAULT_GROUP|gateway-v2,public
+gatewayapp,DEFAULT_GROUP|gatewayapp-datasource-config,"dev-col, gray, public"
+gatewayapp,DEFAULT_GROUP|gatewayapp-rw,public
+gatewayegress,DEFAULT_GROUP|pomelo-gateway-egress,public
+gatewayegress,DEFAULT_GROUP|pomelo-gateway-egress-datasource-config,public
+infrastructure,DEFAULT_GROUP|global-sharding-shared,"dev-col, public"
+loan,DEFAULT_GROUP|loan-datasource-config,public
+statement,DEFAULT_GROUP|statement-mq-config,public
+statement,DEFAULT_GROUP|statement-rmq,"dev-col, public"
+statement,DEFAULT_GROUP|statement-shared,"dev-col, public"
+statement,DEFAULT_GROUP|stmt-datasource-config,"dev-col, public"
+urule,DEFAULT_GROUP|urule,"dev-col, public"
